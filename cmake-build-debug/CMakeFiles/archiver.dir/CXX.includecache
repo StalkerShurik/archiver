@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Programming/CLion Projects/archiver/library/compressor.h
+algorithm
+/mnt/d/Programming/CLion Projects/archiver/library/algorithm
+fstream
+/mnt/d/Programming/CLion Projects/archiver/library/fstream
+iostream
+/mnt/d/Programming/CLion Projects/archiver/library/iostream
+memory
+/mnt/d/Programming/CLion Projects/archiver/library/memory
+my_heap.h
+/mnt/d/Programming/CLion Projects/archiver/library/my_heap.h
+queue
+/mnt/d/Programming/CLion Projects/archiver/library/queue
+set
+/mnt/d/Programming/CLion Projects/archiver/library/set
+string
+/mnt/d/Programming/CLion Projects/archiver/library/string
+tuple
+/mnt/d/Programming/CLion Projects/archiver/library/tuple
+vector
+/mnt/d/Programming/CLion Projects/archiver/library/vector
+unordered_map
+/mnt/d/Programming/CLion Projects/archiver/library/unordered_map
+
+/mnt/d/Programming/CLion Projects/archiver/library/decompressor.h
+iostream
+/mnt/d/Programming/CLion Projects/archiver/library/iostream
+fstream
+/mnt/d/Programming/CLion Projects/archiver/library/fstream
+string
+/mnt/d/Programming/CLion Projects/archiver/library/string
+unordered_map
+/mnt/d/Programming/CLion Projects/archiver/library/unordered_map
+vector
+/mnt/d/Programming/CLion Projects/archiver/library/vector
+
+/mnt/d/Programming/CLion Projects/archiver/library/input_process.h
+iostream
+/mnt/d/Programming/CLion Projects/archiver/library/iostream
+fstream
+/mnt/d/Programming/CLion Projects/archiver/library/fstream
+cstring
+/mnt/d/Programming/CLion Projects/archiver/library/cstring
+
+/mnt/d/Programming/CLion Projects/archiver/library/my_heap.h
+iostream
+/mnt/d/Programming/CLion Projects/archiver/library/iostream
+vector
+/mnt/d/Programming/CLion Projects/archiver/library/vector
+
+/mnt/d/Programming/CLion Projects/archiver/main.cpp
+library/compressor.h
+/mnt/d/Programming/CLion Projects/archiver/library/compressor.h
+library/input_process.h
+/mnt/d/Programming/CLion Projects/archiver/library/input_process.h
+library/decompressor.h
+/mnt/d/Programming/CLion Projects/archiver/library/decompressor.h
+string
+/mnt/d/Programming/CLion Projects/archiver/string
+

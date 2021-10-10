@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/archiver.dir/main.cpp.o CMakeFiles/archiver.dir/library/compressor.cpp.o CMakeFiles/archiver.dir/library/input_process.cpp.o CMakeFiles/archiver.dir/library/decompressor.cpp.o CMakeFiles/archiver.dir/library/my_heap.cpp.o  -o archiver 
